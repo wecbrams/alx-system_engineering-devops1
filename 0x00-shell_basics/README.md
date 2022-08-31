@@ -1,1 +1,2 @@
-where am I readme
+#!/bin/bash>
+pwd
