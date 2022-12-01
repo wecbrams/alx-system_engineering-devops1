@@ -1,2 +1,2 @@
 #!/bi/bash
-chmod a+x */
+chmod -R +111 */
